@@ -2,6 +2,7 @@
 
 ## Team Members:
     - Logan Liddiard
+    - Kaden Hart
     
 
 ## Requirements:
