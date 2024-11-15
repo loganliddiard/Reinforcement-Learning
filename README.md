@@ -3,6 +3,7 @@
 ## Team Members:
     - Logan Liddiard
     - Kaden Hart
+    - Arash Azizian Foumani
     
 
 ## Requirements:
